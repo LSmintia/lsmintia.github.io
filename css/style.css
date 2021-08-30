@@ -409,5 +409,12 @@ iframe {
     #sns .wrapper {
         flex-direction: column;
     }
-    .location
+    .location-info,
+    .location-map,
+    .sns-box {
+        width: 100%;
+    }
+    .sns-box {
+        margin-bottom: 30px;
+    }
 }
